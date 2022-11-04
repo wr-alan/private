@@ -12,7 +12,7 @@ importers:
 
   packages/components:
     specifiers:
-      '@w/hooks': ^1.0.0
+      '@w/hooks': ^1.0.1
     dependencies:
       '@w/hooks': link:../hooks
 
